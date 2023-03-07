@@ -1,0 +1,24 @@
+#logoimg{
+    height: 60px;
+}
+#hi{
+    display: flex;
+    background-color: black;
+}
+.pushpa{
+    display: flex;
+}
+#navya{
+    margin-left: 1200px;
+    margin-top: 15px;
+}
+.signin{
+    background-color: red;
+    height: 31px;
+    font-size: medium;
+}
+.pushpa1{
+    height: 30px;
+    margin-right: 10px;
+    font-size: medium;
+}
