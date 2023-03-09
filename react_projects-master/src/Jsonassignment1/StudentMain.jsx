@@ -1,0 +1,15 @@
+import React from 'react'
+import JSON from "./Student.json"
+import Studentchild from "./Studentchild"
+
+const StudentMain = () => {
+  return (
+    <>
+    <div>StudentMain</div>
+    <Studentchild data={JSON}/>
+
+    </>
+  )
+}
+
+export default StudentMain

@@ -1,0 +1,48 @@
+[
+    {
+        "studentName":"KK",
+        "phoneNo":"963214587",
+        "qualification":"BE EC",
+        "YOP":"2022",
+        "skills":["CoreJava"],
+        "Througout":"95",
+        "studentImg":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMmNkNGIyMjEtZDJkNy00ZTBkLTg3MWUtMDBjM2ZmZGMyYTVlXkEyXkFqcGdeQXVyNDI3NjU1NzQ%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm2776304%2F&tbnid=T1RwC-dc_VIkUM&vet=12ahUKEwjC2uTUts_9AhVgObcAHUiVCH0QMygAegUIARDkAQ..i&docid=M75DkC4TnbTCiM&w=3400&h=5100&q=ram%20charan&ved=2ahUKEwjC2uTUts_9AhVgObcAHUiVCH0QMygAegUIARDkAQ"
+    },
+    {
+        "studentName":"YASEEN",
+        "phoneNo":"963214587",
+        "qualification":"BE EEE",
+        "YOP":"2022",
+        "skills":["Spring BOOT"],
+        "Througout":"65",
+        "studentImg":""
+    },
+    {
+        "studentName":"Pushpa",
+        "phoneNo":"963214587",
+        "qualification":"MCA",
+        "YOP":"2022",
+        "skills":["Spring MVC"],
+        "Througout":"59.2",
+        "studentImg":""
+    },
+    {
+        "studentName":"HARISH",
+        "phoneNo":"963214587",
+        "qualification":"BE CIVIL",
+        "YOP":"2022",
+        "skills":["CoreJava"],
+        "Througout":"65",
+        "studentImg":""
+    },
+    {
+        "studentName":"ABHISHEK",
+        "phoneNo":"963214587",
+        "qualification":"BE MECH",
+        "YOP":"2021",
+        "skills":["CoreJava","React"],
+        "Througout":"60",
+        "studentImg":""
+    }
+    
+]
