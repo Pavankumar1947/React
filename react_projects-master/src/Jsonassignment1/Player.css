@@ -1,0 +1,17 @@
+.img{
+    width:100px;
+    height: 100px;
+}
+
+.mblock{
+    border: 1px solid black;
+    
+    width: 300px;
+     display: flex;
+     align-items: center;
+}
+.pblock{
+    display: flex; 
+    text-align: center;
+    justify-content: center;
+}

@@ -1,0 +1,31 @@
+[
+    {
+        "Name":"MSD",
+        "Team":"CSK",
+        "Role":"Wkt-Keeper",
+        "Best":"90",
+        "playerImg":""
+    },
+    {
+        "Name":"VK",
+        "Team":"RCB",
+        "Role":"Batsman",
+        "Best":"128*",
+        "playerImg":""
+    },
+    {
+        "Name":"Hardik",
+        "Team":"GT",
+        "Role":"All-Rounder",
+        "Best":"72*",
+        "playerImg":""
+    },
+    {
+        "Name":"BhuVi",
+        "Team":"SRH",
+        "Role":"Bowlwr",
+        "Best":"14/4",
+        "playerImg":""
+    }
+    
+]
